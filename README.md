@@ -1,7 +1,7 @@
 
 # .dotfiles that (might) make my life easier
   
-![terminal photo](https://imgur.com/a/3fOjNRD)
+![terminal photo](https://i.imgur.com/RD4o1Q4.png)
  ![vim photo #1](https://i.imgur.com/H1QLKFq.png)
 
 ## iTerm2
