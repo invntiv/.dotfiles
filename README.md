@@ -57,6 +57,6 @@
 ## Roadmap (if i ever get around to it)
 - decide what needs to stay and what can probably go
 
-- replace using a fresh installations on a clean OS (oh-my-zsh/p10k are probably the most obnoxiously broken)
+- replace using a fresh installations on a clean OS (oh-my-zsh/p10k are probably the most egregiously messy)
 
 - add some documentation on what is installed where
